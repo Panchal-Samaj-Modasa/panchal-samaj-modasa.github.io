@@ -1,0 +1,14 @@
+{
+  "name": "પંચાલ સમાજ મોડાસા ડિરેક્ટરી",
+  "short_name": "Panchal Samaj Modasa",
+  "description": "Panchal Samaj Modasa community directory",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "lang": "gu",
+  "background_color": "#FEF7FF",
+  "theme_color": "#6750A4",
+  "icons": [
+    { "src": "app-icon.jpg", "sizes": "512x512", "type": "image/jpeg", "purpose": "any" }
+  ]
+}
